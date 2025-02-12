@@ -32,7 +32,7 @@ def divide(x,y):
 # print(divide(5,0))
 divide(2,0)
 
-Reading, writing and Opening file
+# Reading, writing and Opening file
 file = open("sample.txt" , "r")
 content = file.read()
 content = file.readline()
